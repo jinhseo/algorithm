@@ -27,3 +27,5 @@ def solution(id_list, report, k):
     #print(reporter)
     #print(reported)
     return answer
+
+### 31:53 2nd try ###
